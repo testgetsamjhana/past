@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["odtty9",(e,t)=>{"use strict";var r,s,o,h,a,v=e=>e,l=({pathResolver:e=v,children:t})=>{var s=r((()=>({pathResolver:e})),[e]);return h(a.Provider,{value:s,children:t})},u=()=>s(a).pathResolver;return[()=>{a=o({pathResolver:v}),e({PathResolverProvider:l,default:u})},[e=>(r=e.useMemo,s=e.useContext,o=e.createContext),e=>h=e.jsx]]},["1o4yt4","121h32"]]);

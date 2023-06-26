@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1xlctr",(e,s)=>{"use strict";var r,t,o,i,n,u=()=>t(o);return[()=>{i=(o=r("00000000000000000000000000000000")).Provider,n=o.Consumer,e({SessionConsumer:n,SessionProvider:i,useSessionId:u})},[e=>(r=e.createContext,t=e.useContext)]]},["1o4yt4"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["slhjrk",(i,t)=>{"use strict";var e,s,a,r,l=()=>{var{params:i}=s(),t="detailId"in i&&i.detailId||-1;return r(a,{section:"claimListing",theme:"box",children:r(e,{locationId:t})})};return[()=>{i("default",l)},[i=>e=i.ClaimListing,i=>s=i.useRoute,i=>a=i.Section,i=>r=i.jsx]]},["154yoa","fgwvq1","mjqgle","121h32"]]);

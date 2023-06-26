@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["11qln0",(e,a)=>{"use strict";var l,t,r,u,c=()=>{var[e,a]=l(!1);return t((()=>{var e,l=r((l=>{null!=l?a(!0):e=requestIdleCallback((()=>a(!0)))}));return()=>{e&&cancelIdleCallback(e),l&&u(l)}}),[]),e};return[()=>{e("default",c)},[e=>(l=e.useState,t=e.useEffect),e=>(r=e.requestTTICallback,u=e.cancelTTICallback)]]},["1o4yt4","gbnboa"]]);

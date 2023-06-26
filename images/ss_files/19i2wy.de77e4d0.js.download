@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["19i2wy",(n,o)=>{"use strict";var t,e,r,s,a="ADDITIONAL",i=({onBannerNotFound:n,placement:o})=>r(e,{placement:o,promoPosition:a,onBannerNotFound:n});return[()=>{s=t(((n,o,t)=>{var r={promoPosition:a,placement:t};return e.stage(n,o,r),()=>({})}))(i),n("default",s)},[n=>t=n.bind,n=>e=n.CMSPromo,n=>r=n.jsx]]},["16z5q2","sevubl","121h32"]]);

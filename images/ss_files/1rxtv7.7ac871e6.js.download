@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1rxtv7",(r,t)=>{"use strict";var o,e,i,s,u=()=>e(i);return[()=>{s=(i=o({orgId:"",allowRecording:!1})).Provider,r({FullstoryConfigurationProvider:s,useFullstoryConfiguration:u})},[r=>(o=r.createContext,e=r.useContext)]]},["1o4yt4"]]);

@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["1a37wn",(r,t)=>{"use strict";var s=r=>{var t,s,e=!1;return a=>(a===s&&e||(e=!0,t=r(a),s=a),t)};return[()=>{r("memoizeLast",s)},[]]},[]]);

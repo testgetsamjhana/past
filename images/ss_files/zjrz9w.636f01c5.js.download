@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["zjrz9w",(e,n)=>{"use strict";var d,i,o=({isReadonlyMode:e,replaceWith:n,children:d})=>e?void 0!==n?n:null:d;return[()=>{i=d((e=>({isReadonlyMode:e.meta.readonlyMode})))(o),e("HideOnReadonly",i)},[e=>d=e.connect]]},["12mj4n"]]);
